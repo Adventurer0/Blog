@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 开拓钟的个人博客
+subtitle: 'QAQ'
+description: '可怜的新人'
 keywords:
-author: John Doe
-language: en
+author: 开拓钟
+language: zh-CN
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly #landscape这是原版
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
